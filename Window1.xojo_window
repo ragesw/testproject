@@ -23,7 +23,7 @@ Begin Window Window1
    MinWidth        =   64
    Placement       =   0
    Resizeable      =   True
-   Title           =   "Untitled"
+   Title           =   "My Cool Window"
    Visible         =   True
    Width           =   600
 End
